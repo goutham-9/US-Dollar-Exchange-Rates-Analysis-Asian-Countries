@@ -1,0 +1,1 @@
+This project evaluates the performance of the Japanese Yen, Chinese Yuan, and Indian Rupee against the US Dollar, using exploratory data analysis to uncover trends and fluctuations over time. By analyzing historical exchange rate data, the project provides insights into the economic stability and impact of these currencies on their respective economies and the global market.
